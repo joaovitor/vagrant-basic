@@ -3,10 +3,10 @@ http://vagrantup.com/docs/getting-started/index.html
 
 With rvm installed you just need to
 1- clone this repo
-
+git clone git://github.com/joaovitor/vagrant-basic.git
 
 2- enter
-
+cd vagrant-basic
 
 3- install bundler
 gem install bundler

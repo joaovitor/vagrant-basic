@@ -1,0 +1,29 @@
+Basic vagrant repo with build-essential
+http://vagrantup.com/docs/getting-started/index.html
+
+With rvm installed you just need to
+1- clone this repo
+
+
+2- enter
+
+
+3- install bundler
+gem install bundler
+
+4- install gems
+bundle install
+
+5- download box
+vagrant box add lucid32 http://files.vagrantup.com/lucid32.box
+
+vagrant up
+
+You will have a server running with build-essential installed
+
+Read vagrant docs to more information:
+http://vagrantup.com/docs/index.html
+
+You can find more cookbooks at:
+http://github.com/opscode/cookbooks
+http://github.com/37signals/37s_cookbooks

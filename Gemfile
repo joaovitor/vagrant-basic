@@ -1,2 +1,3 @@
 source :gemcutter
-gem "vagrant"
+
+gem "vagrant", "0.6.9"

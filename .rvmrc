@@ -1,1 +1,1 @@
-rvm --create ree@vagrant
+rvm --create 1.9.2@vagrant
